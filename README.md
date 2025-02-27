@@ -1,3 +1,5 @@
+![Screenshot of my app](https://github.com/samyAkchiche/Mangata-Gallo/blob/main/Mangata%26Gallo-Screenshot.png)
+
 # Mangata&Gallo
 
 This repository is a final test project. The purpose of this graded assessment was to check my knowledge and understanding of the key learning objectives of [this course](https://coursera.org/share/f17e7d1f421ebca20711408d70349914) (Meta Front-End Developer Professional Certificate from Coursera). This is a peer-review project which means that my home page will be evaluated by my fellow learners.
